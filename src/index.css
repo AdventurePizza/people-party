@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  font-family: "Inconsolata";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: clip;
+  overflow-x: clip;
+}
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+code {
+  font-family: "Inconsolata";
+}
+
+
+@font-face {
+	font-family: 'Inconsolata';
+	src: url(./assets/fonts/Inconsolata-Regular.ttf);
+}
