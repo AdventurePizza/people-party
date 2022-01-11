@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1d2f56b.chunk.css",
-    "main.js": "/static/js/main.c17100a5.chunk.js",
-    "main.js.map": "/static/js/main.c17100a5.chunk.js.map",
+    "main.css": "/static/css/main.be62edaf.chunk.css",
+    "main.js": "/static/js/main.e50aff97.chunk.js",
+    "main.js.map": "/static/js/main.e50aff97.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7b2d564.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7b2d564.js.map",
     "static/js/2.192abba5.chunk.js": "/static/js/2.192abba5.chunk.js",
@@ -10,21 +10,22 @@
     "static/js/3.982731ff.chunk.js": "/static/js/3.982731ff.chunk.js",
     "static/js/3.982731ff.chunk.js.map": "/static/js/3.982731ff.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a1d2f56b.chunk.css.map": "/static/css/main.a1d2f56b.chunk.css.map",
+    "static/css/main.be62edaf.chunk.css.map": "/static/css/main.be62edaf.chunk.css.map",
     "static/js/2.192abba5.chunk.js.LICENSE.txt": "/static/js/2.192abba5.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Sacramento-Regular.8e499a8c.ttf",
-    "static/media/background.40494036.png": "/static/media/background.40494036.png",
     "static/media/drum.5ae1d20c.svg": "/static/media/drum.5ae1d20c.svg",
     "static/media/drumIcon.6319398c.png": "/static/media/drumIcon.6319398c.png",
     "static/media/drumbeat.e0f520f5.mp3": "/static/media/drumbeat.e0f520f5.mp3",
     "static/media/frames.d47d7d58.png": "/static/media/frames.d47d7d58.png",
+    "static/media/gallery.40494036.png": "/static/media/gallery.40494036.png",
+    "static/media/home.8e0c042e.png": "/static/media/home.8e0c042e.png",
     "static/media/marker.78c7854c.png": "/static/media/marker.78c7854c.png",
     "static/media/musical-note.49e6a279.svg": "/static/media/musical-note.49e6a279.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c7b2d564.js",
     "static/js/2.192abba5.chunk.js",
-    "static/css/main.a1d2f56b.chunk.css",
-    "static/js/main.c17100a5.chunk.js"
+    "static/css/main.be62edaf.chunk.css",
+    "static/js/main.e50aff97.chunk.js"
   ]
 }
